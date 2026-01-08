@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 namespace miniChTwoToFour.Services
 {
-    public class AddTwoNumbersService
+    public class TwoQuestionsService
     {
-        public string AddTwoNums(int num1, int num2)
+        public string TwoQuestions(string name, string time)
         {
-            return $"The Sum of {num1} and {num2} is {num1+num2}!";
+            return $"Your name is {name} and you woke up at {time}!";
         }
     }
 }

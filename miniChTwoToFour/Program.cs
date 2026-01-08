@@ -8,6 +8,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<AddTwoNumbersService>();
+builder.Services.AddScoped<TwoQuestionsService>();
 
 var app = builder.Build();
 
