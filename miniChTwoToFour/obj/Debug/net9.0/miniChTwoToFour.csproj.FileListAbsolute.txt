@@ -145,3 +145,4 @@ C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC4\miniChTw
 C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC4\miniChTwoToFour\obj\Debug\net9.0\miniChTwoToFour.pdb
 C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC4\miniChTwoToFour\obj\Debug\net9.0\miniChTwoToFour.genruntimeconfig.cache
 C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC4\miniChTwoToFour\obj\Debug\net9.0\ref\miniChTwoToFour.dll
+C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC4\miniChTwoToFour\obj\Debug\net9.0\miniChTwoToFour.sourcelink.json
