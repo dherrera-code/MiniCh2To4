@@ -1,0 +1,1 @@
+- Isaias Gonzalez: I had to update swagger to v9.* to get it to work. The endpoints work nicely, good job.
